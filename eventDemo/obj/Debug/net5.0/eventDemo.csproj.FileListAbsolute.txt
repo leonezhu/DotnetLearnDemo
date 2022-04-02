@@ -1,0 +1,16 @@
+D:\dev\vsworkspace\eventDemo\bin\Debug\net5.0\eventDemo.exe
+D:\dev\vsworkspace\eventDemo\bin\Debug\net5.0\eventDemo.deps.json
+D:\dev\vsworkspace\eventDemo\bin\Debug\net5.0\eventDemo.runtimeconfig.json
+D:\dev\vsworkspace\eventDemo\bin\Debug\net5.0\eventDemo.runtimeconfig.dev.json
+D:\dev\vsworkspace\eventDemo\bin\Debug\net5.0\eventDemo.dll
+D:\dev\vsworkspace\eventDemo\bin\Debug\net5.0\ref\eventDemo.dll
+D:\dev\vsworkspace\eventDemo\bin\Debug\net5.0\eventDemo.pdb
+D:\dev\vsworkspace\eventDemo\obj\Debug\net5.0\eventDemo.csproj.AssemblyReference.cache
+D:\dev\vsworkspace\eventDemo\obj\Debug\net5.0\eventDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\vsworkspace\eventDemo\obj\Debug\net5.0\eventDemo.AssemblyInfoInputs.cache
+D:\dev\vsworkspace\eventDemo\obj\Debug\net5.0\eventDemo.AssemblyInfo.cs
+D:\dev\vsworkspace\eventDemo\obj\Debug\net5.0\eventDemo.csproj.CoreCompileInputs.cache
+D:\dev\vsworkspace\eventDemo\obj\Debug\net5.0\eventDemo.dll
+D:\dev\vsworkspace\eventDemo\obj\Debug\net5.0\ref\eventDemo.dll
+D:\dev\vsworkspace\eventDemo\obj\Debug\net5.0\eventDemo.pdb
+D:\dev\vsworkspace\eventDemo\obj\Debug\net5.0\eventDemo.genruntimeconfig.cache

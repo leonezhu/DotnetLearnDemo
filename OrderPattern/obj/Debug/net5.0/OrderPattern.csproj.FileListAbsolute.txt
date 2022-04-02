@@ -1,0 +1,16 @@
+D:\dev\vsworkspace\OrderPattern\bin\Debug\net5.0\OrderPattern.exe
+D:\dev\vsworkspace\OrderPattern\bin\Debug\net5.0\OrderPattern.deps.json
+D:\dev\vsworkspace\OrderPattern\bin\Debug\net5.0\OrderPattern.runtimeconfig.json
+D:\dev\vsworkspace\OrderPattern\bin\Debug\net5.0\OrderPattern.runtimeconfig.dev.json
+D:\dev\vsworkspace\OrderPattern\bin\Debug\net5.0\OrderPattern.dll
+D:\dev\vsworkspace\OrderPattern\bin\Debug\net5.0\ref\OrderPattern.dll
+D:\dev\vsworkspace\OrderPattern\bin\Debug\net5.0\OrderPattern.pdb
+D:\dev\vsworkspace\OrderPattern\obj\Debug\net5.0\OrderPattern.csproj.AssemblyReference.cache
+D:\dev\vsworkspace\OrderPattern\obj\Debug\net5.0\OrderPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\vsworkspace\OrderPattern\obj\Debug\net5.0\OrderPattern.AssemblyInfoInputs.cache
+D:\dev\vsworkspace\OrderPattern\obj\Debug\net5.0\OrderPattern.AssemblyInfo.cs
+D:\dev\vsworkspace\OrderPattern\obj\Debug\net5.0\OrderPattern.csproj.CoreCompileInputs.cache
+D:\dev\vsworkspace\OrderPattern\obj\Debug\net5.0\OrderPattern.dll
+D:\dev\vsworkspace\OrderPattern\obj\Debug\net5.0\ref\OrderPattern.dll
+D:\dev\vsworkspace\OrderPattern\obj\Debug\net5.0\OrderPattern.pdb
+D:\dev\vsworkspace\OrderPattern\obj\Debug\net5.0\OrderPattern.genruntimeconfig.cache

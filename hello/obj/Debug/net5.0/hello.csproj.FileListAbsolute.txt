@@ -1,0 +1,16 @@
+D:\dev\vsworkspace\hello\bin\Debug\net5.0\hello.exe
+D:\dev\vsworkspace\hello\bin\Debug\net5.0\hello.deps.json
+D:\dev\vsworkspace\hello\bin\Debug\net5.0\hello.runtimeconfig.json
+D:\dev\vsworkspace\hello\bin\Debug\net5.0\hello.runtimeconfig.dev.json
+D:\dev\vsworkspace\hello\bin\Debug\net5.0\hello.dll
+D:\dev\vsworkspace\hello\bin\Debug\net5.0\ref\hello.dll
+D:\dev\vsworkspace\hello\bin\Debug\net5.0\hello.pdb
+D:\dev\vsworkspace\hello\obj\Debug\net5.0\hello.csproj.AssemblyReference.cache
+D:\dev\vsworkspace\hello\obj\Debug\net5.0\hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\vsworkspace\hello\obj\Debug\net5.0\hello.AssemblyInfoInputs.cache
+D:\dev\vsworkspace\hello\obj\Debug\net5.0\hello.AssemblyInfo.cs
+D:\dev\vsworkspace\hello\obj\Debug\net5.0\hello.csproj.CoreCompileInputs.cache
+D:\dev\vsworkspace\hello\obj\Debug\net5.0\hello.dll
+D:\dev\vsworkspace\hello\obj\Debug\net5.0\ref\hello.dll
+D:\dev\vsworkspace\hello\obj\Debug\net5.0\hello.pdb
+D:\dev\vsworkspace\hello\obj\Debug\net5.0\hello.genruntimeconfig.cache
