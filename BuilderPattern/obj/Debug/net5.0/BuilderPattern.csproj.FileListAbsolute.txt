@@ -1,0 +1,16 @@
+D:\dev\vsworkspace\BuilderPattern\bin\Debug\net5.0\BuilderPattern.exe
+D:\dev\vsworkspace\BuilderPattern\bin\Debug\net5.0\BuilderPattern.deps.json
+D:\dev\vsworkspace\BuilderPattern\bin\Debug\net5.0\BuilderPattern.runtimeconfig.json
+D:\dev\vsworkspace\BuilderPattern\bin\Debug\net5.0\BuilderPattern.runtimeconfig.dev.json
+D:\dev\vsworkspace\BuilderPattern\bin\Debug\net5.0\BuilderPattern.dll
+D:\dev\vsworkspace\BuilderPattern\bin\Debug\net5.0\ref\BuilderPattern.dll
+D:\dev\vsworkspace\BuilderPattern\bin\Debug\net5.0\BuilderPattern.pdb
+D:\dev\vsworkspace\BuilderPattern\obj\Debug\net5.0\BuilderPattern.csproj.AssemblyReference.cache
+D:\dev\vsworkspace\BuilderPattern\obj\Debug\net5.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\vsworkspace\BuilderPattern\obj\Debug\net5.0\BuilderPattern.AssemblyInfoInputs.cache
+D:\dev\vsworkspace\BuilderPattern\obj\Debug\net5.0\BuilderPattern.AssemblyInfo.cs
+D:\dev\vsworkspace\BuilderPattern\obj\Debug\net5.0\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\dev\vsworkspace\BuilderPattern\obj\Debug\net5.0\BuilderPattern.dll
+D:\dev\vsworkspace\BuilderPattern\obj\Debug\net5.0\ref\BuilderPattern.dll
+D:\dev\vsworkspace\BuilderPattern\obj\Debug\net5.0\BuilderPattern.pdb
+D:\dev\vsworkspace\BuilderPattern\obj\Debug\net5.0\BuilderPattern.genruntimeconfig.cache

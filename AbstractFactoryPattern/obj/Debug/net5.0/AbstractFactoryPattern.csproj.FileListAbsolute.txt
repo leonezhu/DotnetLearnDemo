@@ -1,0 +1,16 @@
+D:\dev\vsworkspace\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.exe
+D:\dev\vsworkspace\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.deps.json
+D:\dev\vsworkspace\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.json
+D:\dev\vsworkspace\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.dev.json
+D:\dev\vsworkspace\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.dll
+D:\dev\vsworkspace\AbstractFactoryPattern\bin\Debug\net5.0\ref\AbstractFactoryPattern.dll
+D:\dev\vsworkspace\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.pdb
+D:\dev\vsworkspace\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csproj.AssemblyReference.cache
+D:\dev\vsworkspace\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\vsworkspace\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+D:\dev\vsworkspace\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfo.cs
+D:\dev\vsworkspace\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\dev\vsworkspace\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.dll
+D:\dev\vsworkspace\AbstractFactoryPattern\obj\Debug\net5.0\ref\AbstractFactoryPattern.dll
+D:\dev\vsworkspace\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.pdb
+D:\dev\vsworkspace\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.genruntimeconfig.cache

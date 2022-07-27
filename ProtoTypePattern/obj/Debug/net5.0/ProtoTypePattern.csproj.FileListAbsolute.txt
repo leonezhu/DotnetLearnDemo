@@ -1,0 +1,16 @@
+D:\dev\vsworkspace\ProtoTypePattern\bin\Debug\net5.0\ProtoTypePattern.exe
+D:\dev\vsworkspace\ProtoTypePattern\bin\Debug\net5.0\ProtoTypePattern.deps.json
+D:\dev\vsworkspace\ProtoTypePattern\bin\Debug\net5.0\ProtoTypePattern.runtimeconfig.json
+D:\dev\vsworkspace\ProtoTypePattern\bin\Debug\net5.0\ProtoTypePattern.runtimeconfig.dev.json
+D:\dev\vsworkspace\ProtoTypePattern\bin\Debug\net5.0\ProtoTypePattern.dll
+D:\dev\vsworkspace\ProtoTypePattern\bin\Debug\net5.0\ref\ProtoTypePattern.dll
+D:\dev\vsworkspace\ProtoTypePattern\bin\Debug\net5.0\ProtoTypePattern.pdb
+D:\dev\vsworkspace\ProtoTypePattern\obj\Debug\net5.0\ProtoTypePattern.csproj.AssemblyReference.cache
+D:\dev\vsworkspace\ProtoTypePattern\obj\Debug\net5.0\ProtoTypePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\vsworkspace\ProtoTypePattern\obj\Debug\net5.0\ProtoTypePattern.AssemblyInfoInputs.cache
+D:\dev\vsworkspace\ProtoTypePattern\obj\Debug\net5.0\ProtoTypePattern.AssemblyInfo.cs
+D:\dev\vsworkspace\ProtoTypePattern\obj\Debug\net5.0\ProtoTypePattern.csproj.CoreCompileInputs.cache
+D:\dev\vsworkspace\ProtoTypePattern\obj\Debug\net5.0\ProtoTypePattern.dll
+D:\dev\vsworkspace\ProtoTypePattern\obj\Debug\net5.0\ref\ProtoTypePattern.dll
+D:\dev\vsworkspace\ProtoTypePattern\obj\Debug\net5.0\ProtoTypePattern.pdb
+D:\dev\vsworkspace\ProtoTypePattern\obj\Debug\net5.0\ProtoTypePattern.genruntimeconfig.cache
